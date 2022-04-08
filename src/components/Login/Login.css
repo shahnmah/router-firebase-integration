@@ -1,0 +1,11 @@
+.login{
+    padding: 30px;
+    background-color: azure;
+    text-align: center;
+}
+.login form input{
+    margin: 8px 0;
+    padding: 10px 60px 10px 7px;
+    border-radius: 5px;
+    border: 0;
+}
